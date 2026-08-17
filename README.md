@@ -1,5 +1,5 @@
 # Dualsens-edge-fix
-Simple bash script that fixes for the Dualsens Edge controller binding under the Linux ecosystem.
+Simple bash script that fixes for the Dualsens Edge controller binding under the Linux ecosystem. Used the https://github.com/ValveSoftware/steam-devices as a baseline for this.
 
 Note that this is SPECIFICALLY for the Edge and not the stock Dualsens.
 
